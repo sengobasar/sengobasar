@@ -1,14 +1,8 @@
-<!-- 🌌 TOP BANNER / HERO -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:090979,100:00d4ff&height=160&section=header&text=Sengo%20Basar%20🚀&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+<!-- Simple text header -->
+<h1 align="center">Sengo Basar</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00E6FF&center=true&vCenter=true&width=900&lines=Hi%2C+this+is+Sengo+Basar.;Full+Stack+Developer" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
 ---
@@ -19,7 +13,7 @@ Hi, this is **Sengo Basar**, a **Full Stack Developer** and BCA student who enjo
 
 ---
 
-## 🌌 Technologies & Tools Universe
+## 🛠️ Technologies & Tools Universe
 
 <table>
   <tr>
@@ -86,7 +80,7 @@ Hi, this is **Sengo Basar**, a **Full Stack Developer** and BCA student who enjo
 
 ---
 
-## 🚀 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sengobasar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E6FF&icon_color=FFD700" height="170" />
@@ -99,7 +93,7 @@ Hi, this is **Sengo Basar**, a **Full Stack Developer** and BCA student who enjo
 
 ---
 
-## 🌠 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://sengo-portfolio.netlify.app/">
