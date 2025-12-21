@@ -20,15 +20,7 @@
 
 </div>
 
----
 
-## 🧩 Snapshot
-
-- Works across **frontend, backend, and basic DevOps**.  
-- Interested in **AI‑assisted systems**, automation, and modular architecture.  
-- Enjoys hackathons, team projects, and building useful products.
-
----
 
 ## 🛠️ Technologies & Tools I Work With
 
