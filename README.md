@@ -5,16 +5,19 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
     font=JetBrains+Mono
-    &size=24
-    &pause=900
+    &size=26
+    &pause=700
     &color=00E6FF
     &center=true
     &vCenter=true
-    &width=700
+    &width=850
     &lines=Hi%2C+I'm+Sengo+Basar;
             BCA+Student+%7C+AI+%26+System+Builder;
+            I+think+in+systems;
+            I+build+with+constraints+in+mind;
             Turning+ideas+into+working+systems;
-            Clarity+over+complexity"
+            Clarity+over+complexity;
+            Understanding+before+optimization"
   />
 </p>
 
@@ -25,9 +28,9 @@
 I’m **Sengo Basar**, a BCA student who enjoys building **scalable, well-reasoned systems** rather than flashy demos.
 
 I work at the intersection of:
-- 🤖 AI & ML  
-- 🌐 Web & system architecture  
-- 🧠 Problem-solving and clarity of thought  
+- 🤖 **AI & ML**
+- 🌐 **Web & system architecture**
+- 🧠 **Problem-solving and clarity of thought**
 
 I like projects that solve **real constraints**, not just theoretical ones.  
 Outside coding, I explore new technologies, mentor juniors when I can, and sharpen my thinking through **DSA and system design**.
@@ -71,9 +74,9 @@ Outside coding, I explore new technologies, mentor juniors when I can, and sharp
 
 ## 🚀 What I’m Working On
 
-- 🧠 AI-integrated applications with practical use cases  
-- ⚙️ Automation & workflow-focused systems  
-- 🌐 Web applications designed with **clarity before complexity**
+- 🧠 **AI-integrated applications** with practical use cases  
+- ⚙️ **Automation & workflow-focused systems**  
+- 🌐 **Web applications** designed with *clarity before complexity*
 
 I enjoy hackathons and collaborative problem-solving environments where ideas matter more than buzzwords.
 
