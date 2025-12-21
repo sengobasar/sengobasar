@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00E6FF&center=true&vCenter=true&width=900&lines=BCA+Student+%7C+AI+%26+System+Builder;Designing+systems+that+scale+like+galaxies;Thinking+in+systems%2C+building+with+constraints;Clarity+over+complexity;Turning+ideas+into+working+systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00E6FF&center=true&vCenter=true&width=900&lines=Hi%2C+this+is+Sengo+Basar.;Full+Stack+Developer" />
 </p>
 
 <p align="center">
@@ -15,18 +15,11 @@
 
 ## 🛰️ About Me
 
-I specialize in building **scalable web and AI‑driven systems** that focus on real constraints instead of just pretty demos.  
-Currently working on AI‑integrated applications, automation workflows, and web systems that favor **clarity before complexity**.
-
-- 🧠 Enjoy DSA, system design, and reasoning about trade‑offs  
-- 🤝 Like mentoring juniors and collaborating in hackathons  
-- 🌌 Always exploring new stacks, tools, and architectures
+Hi, this is **Sengo Basar**, a **Full Stack Developer** and BCA student who enjoys building web applications and AI‑integrated systems.
 
 ---
 
 ## 🌌 Technologies & Tools Universe
-
-> Categorized, dashboard‑style like the screenshot, but in a space‑themed palette.
 
 <table>
   <tr>
@@ -93,7 +86,7 @@ Currently working on AI‑integrated applications, automation workflows, and web
 
 ---
 
-## 🚀 Live Missions & Activity
+## 🚀 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sengobasar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E6FF&icon_color=FFD700" height="170" />
@@ -103,19 +96,6 @@ Currently working on AI‑integrated applications, automation workflows, and web
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sengobasar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E6FF" height="150" />
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
-</p>
-
----
-
-## 🛸 Space UI Extras
-
-- Animated typing header, capsule banner, and color lines  
-- Dashboard‑style **skills table** similar to the screenshot, but fully badge‑based  
-- Multiple animated stat cards for activity and languages  
-- Dark, neon space palette that fits GitHub’s dark theme well  
 
 ---
 
