@@ -11,7 +11,7 @@
 
 ---
 
-<!-- ===================== QUICK STATS STRIP ===================== -->
+<!-- ===================== QUICK STRIP ===================== -->
 <div align="center">
 
 <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-38bdf8?style=for-the-badge" />
@@ -24,9 +24,9 @@
 
 ## 🧩 Snapshot
 
-- Full Stack dev comfortable with **frontend, backend, and basic DevOps**.  
-- Enjoys **AI‑assisted systems**, automation, and clean, modular architecture.  
-- Likes hackathons, team projects, and building things that are actually useful.
+- Full Stack developer comfortable with **frontend, backend, and basic DevOps**.  
+- Interested in **AI‑assisted systems**, automation, and modular architecture.  
+- Enjoys hackathons, team projects, and building useful products.
 
 ---
 
