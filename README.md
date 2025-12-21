@@ -1,115 +1,132 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?
-    font=JetBrains+Mono
-    &size=26
-    &pause=700
-    &color=00E6FF
+    font=Fira+Code
+    &size=32
+    &pause=1000
+    &color=00D4FF
     &center=true
     &vCenter=true
-    &width=850
-    &lines=Hi%2C+I'm+Sengo+Basar;
-            BCA+Student+%7C+AI+%26+System+Builder;
-            I+think+in+systems;
-            I+build+with+constraints+in+mind;
-            Turning+ideas+into+working+systems;
-            Clarity+over+complexity;
-            Understanding+before+optimization"
+    &width=1000
+    &lines=🌌+Welcome+to+my+Universe;
+            Hi%2C+I'm+Sengo+Basar;
+            BCA+Student+%7C+AI+%26+System+Architect;
+            Building+systems+that+scale+like+stars;
+            Clarity+in+complexity;
+            🚀+Systems+Engineer+%7C+AI+Enthusiast;
+            Thinking+in+systems%2C+Building+with+precision"
+    alt="Typing SVG"
   />
 </p>
 
----
-
-## 👋 About Me
-
-I’m **Sengo Basar**, a BCA student who enjoys building **scalable, well-reasoned systems** rather than flashy demos.
-
-I work at the intersection of:
-- 🤖 **AI & ML**
-- 🌐 **Web & system architecture**
-- 🧠 **Problem-solving and clarity of thought**
-
-I like projects that solve **real constraints**, not just theoretical ones.  
-Outside coding, I explore new technologies, mentor juniors when I can, and sharpen my thinking through **DSA and system design**.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/readme-typing-svg/readme-typing-svg/main/assets/backgrounds/stars.gif" width="100%" />
+</div>
 
 ---
 
-## 🛠 Technologies & Tools I Work With
+## 🌠 About Sengo Basar
 
-> Curated tools I actively use or have built meaningful projects with.
+**BCA Student & Systems Architect** who builds **scalable systems** that shine like constellations.
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+<div align="center">
+  <img src="https://img.shields.io/badge/I%20build-%F0%9F%9A%80-blueviolet?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/I%20think-%F0%9F%92%A1-00D4FF?style=for-the-badge&logo=brain&logoColor=white" />
+  <img src="https://img.shields.io/badge/I%20optimize-%E2%9C%A8-FFD700?style=for-the-badge&logo=sparkles&logoColor=black" />
+</div>
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+**I work at the intersection of:**
+- 🌌 **AI/ML Systems**
+- 🪐 **Web & Distributed Architecture** 
+- ⚡ **Performance Engineering**
 
-### 🧠 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
-### 🗄 Databases & DevOps
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+> *"I turn constraints into constellations. Clarity over complexity. Systems over spectacle."*
 
 ---
 
-## 🚀 What I’m Working On
+## 🪐 Technology Galaxy
 
-- 🧠 **AI-integrated applications** with practical use cases  
-- ⚙️ **Automation & workflow-focused systems**  
-- 🌐 **Web applications** designed with *clarity before complexity*
+### 🌟 Programming Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python" />
+</div>
 
-I enjoy hackathons and collaborative problem-solving environments where ideas matter more than buzzwords.
+### 🚀 Frontend Constellation
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,svelte,tailwind,bootstrap" />
+</div>
+
+### 🧠 AI/ML Nebula
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pandas,opencv,numpy" />
+</div>
+
+### 🛸 Backend & DevOps Cluster
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,git,github" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🌑 Current Missions
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sengobasar&show_icons=true&theme=radical" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sengobasar&theme=radical" />
-</p>
+[![Mission 1](https://img.shields.io/badge/AI%20Apps-🚀%20Active-00D4FF?style=for-the-badge&logo=robot&logoColor=white)](https://github.com/sengobasar)
+[![Mission 2](https://img.shields.io/badge/Automation-⚙️%20Active-FFD700?style=for-the-badge&logo=cogs&logoColor=black)](https://github.com/sengobasar)
+[![Mission 3](https://img.shields.io/badge/Web%20Systems-🌐%20Active-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://github.com/sengobasar)
+
+</div>
+
+**Currently exploring:** Hackathons, collaborative systems design, and production-grade AI deployments.
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
-</p>
+## 📈 GitHub Galaxy Stats
 
-## 🤝 Let’s Connect
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sengobasar&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=FFD700" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sengobasar&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" width="40%" />
+</div>
 
-<p align="center">
-  <a href="https://sengo-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sengobasar&theme=dracula&hide_border=true&background=0D1117&stroke=00D4FF&ring=FFD700&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=FFD700&sideNums=FFFFFF&sideLabels=00D4FF&dates=888888" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/custom-readme-assets/main/Images/misc/trophy.gif" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/DenverCoder1/custom-readme-assets/main/Images/misc/trophy.gif" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/DenverCoder1/custom-readme-assets/main/Images/misc/trophy.gif" width="80" height="80"/>
+</div>
+
+---
+
+## 🚀 Launchpad - Connect with Me
+
+<div align="center">
+  <a href="https://sengo-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" />
   </a>
-  <a href="https://www.linkedin.com/in/sengo-basar-87a14b292" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sengo-basar-87a14b292">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
   </a>
+  &nbsp;
   <a href="mailto:sengobasas67@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
-</p>
+</div>
 
-Always open to **meaningful collaborations and thoughtful conversations**.
+<div align="center">
+  <sub>📬 Open to meaningful collaborations, system design discussions, and cosmic conversations</sub>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sengobasar&color=00D4FF&style=for-the-badge&label=VISITORS" />
+</div>
+
+---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
