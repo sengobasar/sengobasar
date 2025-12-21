@@ -7,10 +7,10 @@
     &center=true
     &vCenter=true
     &width=650
-    &lines=Hi%2C+I'm+Sengo+Basar+%F0%9F%91%8B;
-            BCA+Student+%7C+AI+%26+Systems+Enthusiast;
+    &lines=Hi%2C+I'm+Sengo+Basar;
+            BCA+Student+%7C+AI+%26+Systems+Thinker;
             I+build+things+that+make+sense;
-            Curious+about+Code%2C+Logic+%26+Reality"
+            Clarity+before+complexity"
   />
 </p>
 
@@ -18,19 +18,19 @@
 
 ## 👋 About Me
 
-I’m **Sengo Basar**, a BCA student who enjoys building **scalable, well-reasoned systems** rather than flashy demos.
+I’m **Sengo Basar**, a BCA student who prefers building **scalable, well-reasoned systems** over flashy demos.
 
 I work at the intersection of:
 - 🤖 **AI & ML**
 - 🌐 **Web & system architecture**
 - 🧠 **problem-solving and clarity of thought**
 
-I like projects that solve **real constraints**, not just theoretical ones.  
-Outside coding, I explore new technologies, mentor juniors when I can, and sharpen my thinking through **DSA and systems design**.
+I enjoy projects that solve **real constraints**, not just theoretical ones.  
+Outside coding, I explore new technologies, mentor juniors when I can, and sharpen my thinking through **DSA and system design**.
 
 ---
 
-## 🛠 Tech Stack (curated)
+## 🛠 Tech Stack (curated, not exhaustive)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=
@@ -47,30 +47,30 @@ Outside coding, I explore new technologies, mentor juniors when I can, and sharp
 
 ## 🚀 What I’m Working On
 
-- AI-integrated applications with practical use cases  
-- Automation & workflow-focused systems  
-- Web applications designed with **clarity before complexity**
+- 🧠 AI-integrated applications with practical use cases  
+- ⚙️ Automation & workflow-focused systems  
+- 🌐 Web apps designed with **clarity before complexity**
 
 I enjoy hackathons and collaborative problem-solving environments where ideas matter more than buzzwords.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LungsomLamnio&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sengobasar&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LungsomLamnio&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sengobasar&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🤝 Let’s Connect
 
-- 🌐 Portfolio: *(add when ready)*
+- 🌐 Portfolio: *(coming soon)*
 - 💼 LinkedIn: *(optional)*
 - 📫 Email: *(optional)*
 
-Always open to meaningful collaborations and interesting conversations.
+Always open to meaningful collaborations and thoughtful conversations.
