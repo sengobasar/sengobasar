@@ -108,23 +108,6 @@
 
 ---
 
-## 📂 Featured Project Cards
-
-<div align="center">
-
-<a href="https://github.com/sengobasar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sengobasar&repo=your-main-project&theme=tokyonight&hide_border=true&border_radius=8" />
-</a>
-<a href="https://github.com/sengobasar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sengobasar&repo=another-project&theme=tokyonight&hide_border=true&border_radius=8" />
-</a>
-
-</div>
-
-_(replace `your-main-project` and `another-project` with real repo names)_
-
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
