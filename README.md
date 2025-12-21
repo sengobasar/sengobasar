@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=230&section=header&text=Sengo%20Basar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+this+is+Sengo+Basar.;Full+Stack+Developer+%7C+BCA+Student;Building+web+apps+and+AI-integrated+systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+this+is+Sengo+Basar.;I+build+web+applications+and+AI-integrated+systems." />
 </p>
 
 </div>
@@ -14,7 +14,7 @@
 <!-- ===================== QUICK STRIP ===================== -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-38bdf8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Web%20Apps%20%26%20AI-38bdf8?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Location-India-1e293b?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Open%20For-Collaborations-16a34a?style=for-the-badge" />
 
@@ -24,7 +24,7 @@
 
 ## 🧩 Snapshot
 
-- Full Stack developer comfortable with **frontend, backend, and basic DevOps**.  
+- Works across **frontend, backend, and basic DevOps**.  
 - Interested in **AI‑assisted systems**, automation, and modular architecture.  
 - Enjoys hackathons, team projects, and building useful products.
 
