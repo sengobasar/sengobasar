@@ -30,7 +30,7 @@
 class SengoBasar:
     def __init__(self):
         self.name = "Sengo Basar"
-        self.role = "AI Engineer & Full-Stack Developer (*self-claimed 😉)"
+        self.role = "AI Engineer & Full-Stack Developer"
         self.location = "India 🇮🇳"
         self.education = "BCA Student (2023-2026)"
         
