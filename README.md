@@ -3,9 +3,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Sengo%20Basar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BCA%20Student%20%7C%20AI%20%26%20Full-Stack%20Development%20%7C%20Machine%20Learning&descSize=18&descAlignY=55" />
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Sengo+Basar;Building+AI-Powered+Web+Applications;Always+Learning+%F0%9F%9A%80;Open+Source+Contributor" />
-</p>
+### 👋 Hi, I'm Sengo Basar
+
+**BCA Student | AI & Full-Stack Development**
+
+💻 Building AI-Powered Web Applications | 🚀 Always Learning | 🤝 Open Source Contributor
+
+---
 
 </div>
 
