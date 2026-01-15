@@ -26,6 +26,8 @@
 <!-- ===================== ABOUT ME ===================== -->
 ## 👨‍💻 About Me
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
 ```python
 class SengoBasar:
     def __init__(self):
@@ -205,14 +207,20 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sengobasar&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&ring_color=764ba2" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sengobasar&theme=radical&hide_border=true&background=0d1117&ring=667eea&fire=f093fb&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=764ba2&sideLabels=764ba2" height="180" />
+<a href="https://github.com/sengobasar">
+  <img src="https://github-readme-stats.vercel.app/api?username=sengobasar&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&ring_color=764ba2&cache_seconds=86400" height="180" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/sengobasar">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sengobasar&theme=radical&hide_border=true&background=0d1117&ring=667eea&fire=f093fb&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=764ba2&sideLabels=764ba2&cache_seconds=86400" height="180" alt="GitHub Streak" />
+</a>
 
 </div>
 
 <div align="center" style="margin-top: 20px;">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sengobasar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8" height="170" />
+<a href="https://github.com/sengobasar">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sengobasar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8&cache_seconds=86400" height="170" alt="Top Languages" />
+</a>
 
 </div>
 
@@ -234,7 +242,9 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sengobasar&theme=radical" width="100%" />
+<a href="https://github.com/sengobasar">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sengobasar&theme=radical" width="100%" alt="Profile Details" />
+</a>
 
 </div>
 
@@ -243,24 +253,32 @@ me.say_hi()
 <tr>
 <td width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sengobasar&theme=radical" />
+<a href="https://github.com/sengobasar">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sengobasar&theme=radical" alt="Repos per Language" />
+</a>
 
 </td>
 <td width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sengobasar&theme=radical" />
+<a href="https://github.com/sengobasar">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sengobasar&theme=radical" alt="Most Commit Language" />
+</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sengobasar&theme=radical" />
+<a href="https://github.com/sengobasar">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sengobasar&theme=radical" alt="Stats" />
+</a>
 
 </td>
 <td width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sengobasar&theme=radical" />
+<a href="https://github.com/sengobasar">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sengobasar&theme=radical" alt="Productive Time" />
+</a>
 
 </td>
 </tr>
@@ -274,7 +292,9 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sengobasar&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
+<a href="https://github.com/sengobasar">
+  <img src="https://github-profile-trophy.vercel.app/?username=sengobasar&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies" />
+</a>
 
 </div>
 
