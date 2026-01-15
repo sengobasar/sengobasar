@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Sengo%20Basar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BCA%20Student%20%7C%20AI%20%26%20Full-Stack%20Development%20%7C%20Machine%20Learning&descSize=18&descAlignY=55" />
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Sengo+Basar;Building+AI-Powered+Web+Applications;Learning+Full-Stack+Development+%26+Machine+Learning+%F0%9F%92%BB;Open+Source+Contributor+%7C+Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Sengo+Basar;Building+AI-Powered+Web+Applications;Always+Learning+%F0%9F%9A%80;Open+Source+Contributor" />
 </p>
 
 </div>
@@ -14,10 +14,10 @@
 <!-- ===================== QUICK STRIP ===================== -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/🎯_Focus-AI%20%2B%20Web%20Development-667eea?style=for-the-badge&labelColor=1e293b" />
-<img src="https://img.shields.io/badge/📍_Based_in-India-764ba2?style=for-the-badge&labelColor=1e293b" />
-<img src="https://img.shields.io/badge/💼_Open_For-Collaborations%20%26%20Opportunities-f093fb?style=for-the-badge&labelColor=1e293b" />
-<img src="https://img.shields.io/badge/🌱_Learning-Deep%20Learning%20%26%20DevOps-38bdf8?style=for-the-badge&labelColor=1e293b" />
+![Focus](https://img.shields.io/badge/🎯_Focus-AI%20%2B%20Web%20Development-667eea?style=for-the-badge&labelColor=1e293b)
+![Location](https://img.shields.io/badge/📍_Based_in-India-764ba2?style=for-the-badge&labelColor=1e293b)
+![Status](https://img.shields.io/badge/💼_Open_For-Collaborations%20%26%20Opportunities-f093fb?style=for-the-badge&labelColor=1e293b)
+![Learning](https://img.shields.io/badge/🌱_Learning-Deep%20Learning%20%26%20DevOps-38bdf8?style=for-the-badge&labelColor=1e293b)
 
 </div>
 
@@ -25,8 +25,6 @@
 
 <!-- ===================== ABOUT ME ===================== -->
 ## 👨‍💻 About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```python
 class SengoBasar:
@@ -66,7 +64,6 @@ me.say_hi()
   <!-- Languages -->
   <tr>
     <td>
-      <img src="https://img.icons8.com/color/48/code.png" width="20"/> 
       <b>Languages</b>
     </td>
     <td>
@@ -82,7 +79,6 @@ me.say_hi()
   <!-- AI/ML -->
   <tr>
     <td>
-      <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="20"/> 
       <b>AI / ML</b>
     </td>
     <td>
@@ -98,7 +94,6 @@ me.say_hi()
   <!-- Frontend -->
   <tr>
     <td>
-      <img src="https://img.icons8.com/color/48/web.png" width="20"/> 
       <b>Frontend</b>
     </td>
     <td>
@@ -115,7 +110,6 @@ me.say_hi()
   <!-- Backend -->
   <tr>
     <td>
-      <img src="https://img.icons8.com/color/48/server.png" width="20"/> 
       <b>Backend</b>
     </td>
     <td>
@@ -129,7 +123,6 @@ me.say_hi()
   <!-- Databases -->
   <tr>
     <td>
-      <img src="https://img.icons8.com/color/48/database.png" width="20"/> 
       <b>Databases</b>
     </td>
     <td>
@@ -142,7 +135,6 @@ me.say_hi()
   <!-- Tools & DevOps -->
   <tr>
     <td>
-      <img src="https://img.icons8.com/color/48/settings.png" width="20"/> 
       <b>Tools & DevOps</b>
     </td>
     <td>
@@ -207,94 +199,11 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://github.com/sengobasar">
-  <img src="https://github-readme-stats.vercel.app/api?username=sengobasar&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&ring_color=764ba2&cache_seconds=86400" height="180" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/sengobasar">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sengobasar&theme=radical&hide_border=true&background=0d1117&ring=667eea&fire=f093fb&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=764ba2&sideLabels=764ba2&cache_seconds=86400" height="180" alt="GitHub Streak" />
-</a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sengobasar&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&ring_color=764ba2)](https://github.com/sengobasar)
 
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sengobasar&theme=radical&hide_border=true&background=0d1117&ring=667eea&fire=f093fb&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=764ba2&sideLabels=764ba2)](https://github.com/sengobasar)
 
-<div align="center" style="margin-top: 20px;">
-
-<a href="https://github.com/sengobasar">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sengobasar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8&cache_seconds=86400" height="170" alt="Top Languages" />
-</a>
-
-</div>
-
----
-
-<!-- ===================== ACTIVITY GRAPH ===================== -->
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sengobasar&theme=react-dark&hide_border=true&bg_color=0d1117&color=667eea&line=f093fb&point=764ba2&area=true&area_color=667eea" width="100%" />
-
-</div>
-
----
-
-<!-- ===================== DETAILED METRICS ===================== -->
-## 🎯 Detailed Metrics
-
-<div align="center">
-
-<a href="https://github.com/sengobasar">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sengobasar&theme=radical" width="100%" alt="Profile Details" />
-</a>
-
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-<a href="https://github.com/sengobasar">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sengobasar&theme=radical" alt="Repos per Language" />
-</a>
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/sengobasar">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sengobasar&theme=radical" alt="Most Commit Language" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<a href="https://github.com/sengobasar">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sengobasar&theme=radical" alt="Stats" />
-</a>
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/sengobasar">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sengobasar&theme=radical" alt="Productive Time" />
-</a>
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<!-- ===================== TROPHIES ===================== -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/sengobasar">
-  <img src="https://github-profile-trophy.vercel.app/?username=sengobasar&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies" />
-</a>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sengobasar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8)](https://github.com/sengobasar)
 
 </div>
 
@@ -359,7 +268,7 @@ mindmap
 <!-- ===================== VISITOR COUNT ===================== -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sengobasar&color=667eea&style=for-the-badge&label=Profile+Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=sengobasar&color=667eea&style=for-the-badge&label=Profile+Views)
 
 <p style="margin-top: 20px;">
   <i>⭐ If you find my work interesting, feel free to star my repositories!</i>
