@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Sengo%20Basar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%20%20%7C%20%20%20%7C%20%20%20%7C%20%20%20%20&descSize=18&descAlignY=55" />
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Sengo+Basar;Building+AI-Powered+Web+Applications+%F0%9F%A4%96;Full-Stack+Developer+%2B+Machine+Learning+%F0%9F%92%BB;Open+Source+%7C+Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Sengo+Basar;Building+AI-Powered+Web+Applications+%F0%9F%A4%96;Full-Stack+Development+%2B+Machine+Learning+%F0%9F%92%BB;Open+Source+%7C+Always+Learning+%F0%9F%9A%80" />
 </p>
 
 </div>
