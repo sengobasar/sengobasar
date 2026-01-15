@@ -1,10 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Sengo%20Basar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Quantum%20Computing%20Expert%20(self-claimed%20😉)&descSize=18&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Sengo%20Basar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BCA%20Student%20%7C%20AI%20%26%20Full-Stack%20Development%20%7C%20Machine%20Learning&descSize=18&descAlignY=55" />
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Sengo+Basar;Building+AI-Powered+Web+Applications+%F0%9F%A4%96;Full-Stack+Developer+%2B+Machine+Learning+Engineer+%F0%9F%92%BB;Open+Source+Contributor+%7C+Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Sengo+Basar;Building+AI-Powered+Web+Applications;Always+Learning+%F0%9F%9A%80;Open+Source+Contributor" />
 </p>
 
 </div>
@@ -30,7 +30,7 @@
 class SengoBasar:
     def __init__(self):
         self.name = "Sengo Basar"
-        self.role = "AI Engineer & Full-Stack Developer"
+        self.role = "BCA Student | AI & Full-Stack Development"
         self.location = "India 🇮🇳"
         self.education = "BCA Student (2023-2026)"
         
@@ -41,7 +41,7 @@ class SengoBasar:
             "Exploring LLMs & Generative AI"
         ]
         
-        self.interests = ["AI/ML", "Web Dev", "Cloud", "Open Source"]
+        self.interests = ["AI/ML", "Web Dev", "Cloud", "Open Source", "Quantum Computing"]
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together 🚀")
